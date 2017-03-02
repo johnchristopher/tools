@@ -1,0 +1,20 @@
+{
+	"name": "johnchristopher/tools",
+	"description": "A collection of useful PHP functions wrapped in a class.",
+	"license": "MIT",
+	"authors": [{
+		"name": "Jean-Christophe Vanhalle",
+		"email": "jeanchristophe.vanhalle@gmail.com",
+		"role": "Developer",
+		"homepage": "http://johnchristopher.github.io/"
+	}],
+    "homepage": "https://github.com/johnchristopher/tools",
+	"require": {
+		"php": ">=5.6.21"
+	},
+	"autoload": {
+		"psr-4": {
+			"JC\\": ""
+		}
+	}
+}
